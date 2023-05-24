@@ -1,0 +1,7 @@
+{
+  "domain": "dev-ygz2tgkeytvz1pe3.eu.auth0.com",
+  "clientId": "tC4rUeLsPiA0zJHEzxgglXsC35V0LjRd",
+  "audience": "https://dev-ygz2tgkeytvz1pe3.eu.auth0.com/api/v2/",
+  "appOrigin": "http://localhost:3000",
+  "apiOrigin": "http://localhost:3001"
+}
